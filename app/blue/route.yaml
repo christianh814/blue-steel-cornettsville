@@ -1,0 +1,3 @@
+- op: replace
+  path: /spec/host
+  value: "blue.apps.cluster1.chx.osecloud.com"
